@@ -1,5 +1,13 @@
 
 var assignmentArry = [
+
+  {
+    tital:"Notes app",
+    link:"https://mmehrankhan.github.io/notes-app/",
+    discription:"notes create , edit and delete",
+    date:"6/06/2024",
+    code:"https://github.com/mmehrankhan/notes-app"
+  },
     {
       tital:"Finance Traking App",
       link:"https://mmehrankhan.github.io/finance_app/",
